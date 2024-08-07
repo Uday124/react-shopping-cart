@@ -21,7 +21,7 @@ const Footer = () => {
                             target="_blank"
                             rel="noreferrer"
                         >
-                            Gulshan Songara
+                            Uday Ram
                         </a>
                     </p>
                 </div>
