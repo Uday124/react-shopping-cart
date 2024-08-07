@@ -17,7 +17,7 @@ const Footer = () => {
                     <p>
                         Built by | &nbsp;
                         <a
-                            href="https://gulshansongara.netlify.app"
+                            href="https://react-shopping-cart-info.netlify.app/"
                             target="_blank"
                             rel="noreferrer"
                         >
