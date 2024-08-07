@@ -11,7 +11,7 @@ const Footer = () => {
                         target="_blank"
                         rel="noreferrer"
                     >
-                        github.com/gulshancodes/react-shopping-cart
+                        github.com/Uday124/react-shopping-cart
                     </a>
 
                     <p>
