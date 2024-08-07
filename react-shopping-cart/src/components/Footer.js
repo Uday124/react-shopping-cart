@@ -15,7 +15,7 @@ const Footer = () => {
                     </a>
 
                     <p>
-                        Built by | &nbsp;
+                       
                         <a
                             href=""
                             target="_blank"
