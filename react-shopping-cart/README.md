@@ -21,9 +21,8 @@
 
 <br/>
 
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://)**, **[Linkedin](https://)**
+*AUTHOR*
+Uday Ram
 
 <br/>
 
