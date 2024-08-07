@@ -6,7 +6,7 @@ const Footer = () => {
             <footer id="footer">
                 <div className="container">
                     <a
-                        href="https://react-shopping-cart-info.netlify.app/"
+                        href="https://github.com/Uday124/react-shopping-cart"
                         className="repo_link"
                         target="_blank"
                         rel="noreferrer"
